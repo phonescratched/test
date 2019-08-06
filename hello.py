@@ -17,3 +17,8 @@ def VarHel():
 
 print("asdad")
 
+z = "asdad"
+
+print(z)
+print("z")
+
